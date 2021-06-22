@@ -1,0 +1,16 @@
+
+.home #img{
+    display: flex;
+    height: 100vh;
+    color: #fff;
+    width: 100vw;
+    min-height: 500px;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ubuntu', sans-serif;
+}
+.home .max-width{
+    margin: auto 0 auto 2%;
+}
